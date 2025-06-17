@@ -1,0 +1,181 @@
+Medicine ID,Medicine Name,Cost (INR),Cost per Tablet (INR)
+101,Telmisartan 4mg,13.95,0.7
+102,Itraconazole 23mg,187.0,18.7
+103,Crocin 24mg,86.98,4.35
+104,Atorvastatin 71mg,51.02,3.4
+105,Omeprazole 85mg,44.9,4.49
+106,Folic Acid 9mg,121.02,6.05
+107,Benadryl 65mg,52.46,5.25
+108,Codeine 67mg,95.92,4.8
+109,Cetirizine 45mg,158.68,7.93
+110,Ranitidine 31mg,154.89,7.74
+111,Hydrochlorothiazide 61mg,58.72,2.94
+112,Hydrochlorothiazide 65mg,90.13,9.01
+113,Nitrofurantoin 53mg,109.6,10.96
+114,Ranitidine 20mg,128.81,6.44
+115,Amoxicillin 57mg,150.86,5.03
+116,Disprin 1mg,158.02,10.53
+117,Chlorpheniramine 85mg,168.21,5.61
+118,Fluconazole 53mg,21.88,1.46
+119,Calpol 86mg,30.91,2.06
+120,Atorvastatin 68mg,84.59,5.64
+121,Amoxicillin 66mg,67.71,4.51
+122,Folic Acid 36mg,83.83,4.19
+123,Ondansetron 27mg,161.15,5.37
+124,Benadryl 60mg,108.18,7.21
+125,Dexamethasone 37mg,132.18,6.61
+126,Erythromycin 37mg,35.47,1.77
+127,Dextromethorphan 84mg,19.32,1.93
+128,Montelukast 41mg,71.28,4.75
+129,Cetirizine 34mg,96.62,3.22
+130,Fluconazole 52mg,96.52,3.22
+131,Vitamin C 36mg,61.45,2.05
+132,Dolo 650 57mg,27.91,1.86
+133,Codeine 56mg,194.24,12.95
+134,Zincovit 15mg,80.34,2.68
+135,Thyronorm 93mg,142.18,14.22
+136,Rifaximin 18mg,43.29,2.16
+137,Paracetamol 88mg,45.36,2.27
+138,Folic Acid 12mg,30.87,1.03
+139,Ondansetron 4mg,79.23,3.96
+140,Omeprazole 82mg,17.15,0.57
+141,B-Complex 84mg,109.3,10.93
+142,Rifaximin 71mg,182.47,6.08
+143,Zincovit 7mg,38.56,1.29
+144,Thyronorm 55mg,189.68,9.48
+145,Vitamin C 6mg,14.67,1.47
+146,Omeprazole 16mg,151.74,10.12
+147,Folic Acid 36mg,153.19,5.11
+148,Montelukast 13mg,51.83,1.73
+149,Rifaximin 37mg,80.56,8.06
+150,Montelukast 52mg,112.09,11.21
+151,Omeprazole 10mg,97.66,3.26
+152,Enalapril 88mg,111.44,5.57
+153,Benadryl 6mg,197.85,9.89
+154,Montelukast 58mg,111.13,7.41
+155,Lisinopril 3mg,71.58,2.39
+156,Nitrofurantoin 58mg,196.56,9.83
+157,Zincovit 5mg,102.19,5.11
+158,Dolo 650 35mg,18.77,1.25
+159,Azithromycin 65mg,102.22,10.22
+160,Dextromethorphan 57mg,195.72,19.57
+161,Dexamethasone 30mg,86.29,8.63
+162,Codeine 72mg,195.21,19.52
+163,Soframycin 62mg,154.39,10.29
+164,Soframycin 97mg,141.16,4.71
+165,Thyronorm 11mg,74.8,2.49
+166,Azithromycin 3mg,85.75,8.57
+167,Dolo 650 81mg,161.15,5.37
+168,Zincovit 76mg,183.79,6.13
+169,Folic Acid 3mg,155.15,10.34
+170,Enalapril 60mg,136.71,6.84
+171,Domperidone 1mg,44.21,1.47
+172,Dolo 650 54mg,159.83,15.98
+173,Iron Tablets 75mg,79.81,5.32
+174,Crocin 81mg,30.68,3.07
+175,B-Complex 29mg,75.72,5.05
+176,Naproxen 82mg,70.49,7.05
+177,Atorvastatin 39mg,148.74,4.96
+178,Vitamin D3 62mg,36.91,1.85
+179,Atorvastatin 24mg,69.54,6.95
+180,Rifaximin 97mg,34.73,1.16
+181,Telmisartan 64mg,165.87,11.06
+182,Ciprofloxacin 30mg,190.53,6.35
+183,Itraconazole 62mg,74.97,5.0
+184,Zincovit 19mg,166.72,8.34
+185,Domperidone 98mg,113.92,5.7
+186,Hydrochlorothiazide 79mg,144.58,14.46
+187,Montelukast 8mg,11.22,1.12
+188,Fluconazole 98mg,162.4,10.83
+189,Clarithromycin 55mg,81.71,4.09
+190,Losartan 2mg,132.12,6.61
+191,Paracetamol 45mg,94.82,9.48
+192,Clarithromycin 20mg,160.02,8.0
+193,Chlorpheniramine 19mg,20.8,2.08
+194,Telmisartan 73mg,188.41,9.42
+195,Clavum 59mg,82.99,8.3
+196,Enalapril 64mg,115.73,11.57
+197,Salbutamol 33mg,28.47,1.42
+198,Rifaximin 42mg,110.21,3.67
+199,Zincovit 99mg,188.9,9.44
+200,Ketoconazole 47mg,147.38,7.37
+201,Amlodipine 17mg,89.79,2.99
+202,Paracetamol 13mg,89.14,5.94
+203,Dolo 650 84mg,145.05,4.84
+204,Cetirizine 19mg,154.5,15.45
+205,Salbutamol 69mg,162.19,8.11
+206,Calpol 50mg,140.95,4.7
+207,Clarithromycin 37mg,164.73,10.98
+208,Domperidone 46mg,190.92,9.55
+209,Omeprazole 30mg,13.6,0.91
+210,Amlodipine 65mg,140.83,9.39
+211,Glycomet 41mg,157.02,7.85
+212,Dextromethorphan 12mg,65.29,2.18
+213,Ibuprofen 9mg,177.88,11.86
+214,Ranitidine 2mg,141.24,7.06
+215,Amoxicillin 2mg,46.05,1.54
+216,Cetirizine 55mg,156.91,15.69
+217,Salbutamol 62mg,70.35,4.69
+218,Glycomet 47mg,177.24,8.86
+219,Montelukast 12mg,108.75,7.25
+220,Crocin 42mg,171.41,17.14
+221,Itraconazole 84mg,49.45,2.47
+222,Thyronorm 33mg,105.49,3.52
+223,Folic Acid 76mg,181.81,18.18
+224,Soframycin 42mg,40.19,4.02
+225,Erythromycin 51mg,14.84,0.49
+226,Zincovit 96mg,137.68,9.18
+227,Folic Acid 93mg,187.17,6.24
+228,Salbutamol 88mg,111.8,3.73
+229,Amlodipine 84mg,197.95,6.6
+230,Losartan 70mg,36.87,3.69
+231,Atorvastatin 65mg,126.59,6.33
+232,Thyronorm 89mg,23.77,0.79
+233,Losartan 84mg,107.05,10.7
+234,Paracetamol 92mg,23.02,1.53
+235,Itraconazole 31mg,111.53,5.58
+236,Nitrofurantoin 8mg,127.64,4.25
+237,Thyronorm 40mg,132.12,6.61
+238,Amlodipine 41mg,49.33,2.47
+239,Crocin 12mg,127.85,4.26
+240,Atorvastatin 52mg,118.94,7.93
+241,Calpol 82mg,114.5,11.45
+242,Losartan 48mg,195.34,13.02
+243,Chlorpheniramine 81mg,74.03,3.7
+244,Azithromycin 54mg,111.23,3.71
+245,Iron Tablets 61mg,112.14,5.61
+246,Soframycin 41mg,101.35,3.38
+247,Montelukast 59mg,40.0,1.33
+248,Cetirizine 67mg,48.64,4.86
+249,Nitrofurantoin 26mg,94.67,9.47
+250,Azithromycin 90mg,60.43,2.01
+251,Iron Tablets 18mg,148.55,9.9
+252,Nitrofurantoin 38mg,75.4,7.54
+253,Crocin 44mg,169.93,8.5
+254,Amoxicillin 71mg,183.15,9.16
+255,Folic Acid 36mg,43.04,1.43
+256,Crocin 41mg,53.67,5.37
+257,Disprin 63mg,45.78,2.29
+258,Thyronorm 24mg,169.94,5.66
+259,Azithromycin 52mg,145.91,9.73
+260,Clarithromycin 15mg,149.85,9.99
+261,Naproxen 25mg,194.18,6.47
+262,Disprin 89mg,68.21,4.55
+263,Codeine 50mg,188.46,6.28
+264,Vitamin C 63mg,61.23,2.04
+265,Rifaximin 83mg,112.49,11.25
+266,Cetirizine 81mg,114.44,5.72
+267,Dextromethorphan 63mg,61.64,2.05
+268,Salbutamol 17mg,79.27,5.28
+269,Paracetamol 69mg,132.07,6.6
+270,Glycomet 66mg,28.98,1.45
+271,Atorvastatin 32mg,22.66,1.51
+272,Soframycin 7mg,12.28,0.41
+273,Crocin 82mg,175.36,5.85
+274,Amlodipine 81mg,23.24,1.16
+275,Nitrofurantoin 92mg,165.96,8.3
+276,Nitrofurantoin 34mg,12.92,0.43
+277,Montelukast 36mg,52.77,3.52
+278,Amoxicillin 79mg,91.77,3.06
+279,Montelukast 89mg,17.35,0.58
+280,Dolo 650 28mg,155.91,15.59
